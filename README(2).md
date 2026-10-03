@@ -67,7 +67,7 @@ Use a ring buffer with [number] files
 
 ![Wireshark Ring Buffer Configuration](screenshots/ring-buffer-2.png)
 
-In the example above, the ring buffer is configured to retain **10 files**.
+In the example above, the ring buffer is configured to retain **5 files**.
 
 ---
 
